@@ -8,4 +8,4 @@ List
 6. ~
 
 --------------------------------------------------------
-Computer Vision 논문 Review -> 
+Computer Vision 논문 Review -> https://satin-phalange-29e.notion.site/DL-Review-14f788bc1cae481b87c00f8ce3eaf806
