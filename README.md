@@ -3,9 +3,8 @@ Computer Vision 논문 구현
 List
 1. VGGNET
 2. Inception Net v1
-3. Inception Net v2, v3 (진행 중)
-4. ResNet
-5. Inception Net v4 (진행 중)
+3. ResNet
+4. Vision Transformer (진행 중)
 
 -------------------------------------------------------------
 -------------------------------------------------------------
